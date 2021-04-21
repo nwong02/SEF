@@ -10,6 +10,7 @@ class Classifier
 void train()
 {
 	printf("This is the train function");
+	printf("The second feature is added");
 }
 
 void predict()

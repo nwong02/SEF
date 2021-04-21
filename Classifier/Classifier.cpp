@@ -11,3 +11,8 @@ void train()
 {
 	printf("This is the train function");
 }
+
+void predict()
+{
+	printf("This is the predict function");
+}
